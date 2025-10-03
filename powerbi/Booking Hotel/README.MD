@@ -3,7 +3,7 @@
 
 This project analyzes hotel booking data using SQL, Power Query, and Power BI to deliver interactive dashboards that help understand customer behavior, hotel revenues, and cancellation patterns.
 
-📂 Dataset
+📂 <h1>Dataset</h1>
 
 Source: Kaggle – Hotel Booking Demand Dataset
 
