@@ -1,3 +1,18 @@
+🏨 Hotel Booking Analysis – Power BI Project
+📊 Overview
+
+This project analyzes hotel booking data using SQL, Power Query, and Power BI to deliver interactive dashboards that help understand customer behavior, hotel revenues, and cancellation patterns.
+
+📂 Dataset
+
+Source: Kaggle – Hotel Booking Demand Dataset
+
+Rows: 191,930
+
+Columns: 32
+
+Observation: Most bookings came from Western European countries.
+
 🛠️ Data Preparation
 🧹 Data Cleaning
 
@@ -35,7 +50,7 @@ DimDate: from Min → Max Arrival Date, including Year, Month, Quarter, WeekNumb
 
 📐 DAX Measures & Calculations
 
-Measures
+Measures:
 
 Total Booking, Avg Lead Time, Cancelation, Avg ADR
 
@@ -43,7 +58,7 @@ Total Night, Cancelation Rate, Total Guest
 
 Total Revenue (Completed), Lost Revenue
 
-Calculated Columns
+Calculated Columns:
 
 Room Status: "SAME" or "NOT SAME" (Reserved vs Assigned).
 
