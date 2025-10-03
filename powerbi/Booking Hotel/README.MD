@@ -3,7 +3,7 @@
 
 This project analyzes hotel booking data using SQL, Power Query, and Power BI to deliver interactive dashboards that help understand customer behavior, hotel revenues, and cancellation patterns.
 
-📂 <h1>Dataset</h1>
+📂 Dataset
 
 Source: Kaggle – Hotel Booking Demand Dataset
 
@@ -60,38 +60,38 @@ Total Revenue (Completed), Lost Revenue
 
 Calculated Columns:
 
-Room Status: "SAME" or "NOT SAME" (Reserved vs Assigned).
+Room Status: "SAME" or "NOT SAME" (Reserved vs Assigned)
 
-LeadTimeGroup: "0-7 Days", "8-30 Days", "31-90 Days", "91+ Days".
+LeadTimeGroup: "0-7 Days", "8-30 Days", "31-90 Days", "91+ Days"
 
 📑 Report Pages
 
 The report includes 4 main pages:
 
-Overview – general performance summary.
+Overview – general performance summary
 
-Booking – detailed bookings.
+Booking – detailed bookings
 
-Cancelation – cancellations and patterns.
+Cancelation – cancellations and patterns
 
-Revenue – earned vs. lost revenues.
+Revenue – earned vs. lost revenues
 
-✨ Added Drill Through to show detailed insights per country.
+✨ Added Drill Through to show detailed insights per country
 
 🔎 Key Insights
 
-Western European countries had the highest bookings.
+Western European countries had the highest bookings
 
-City Hotels experienced a higher cancellation rate than Resort Hotels.
+City Hotels experienced a higher cancellation rate than Resort Hotels
 
-Average stay (Total Nights) was longer in Resort Hotels.
+Average stay (Total Nights) was longer in Resort Hotels
 
-TA/TO (Travel Agents/Tour Operators) accounted for most bookings.
+TA/TO (Travel Agents/Tour Operators) accounted for most bookings
 
-Transient customers were the largest customer segment.
+Transient customers were the largest customer segment
 
-Lost Revenue due to cancellations was significant in some countries.
+Lost Revenue due to cancellations was significant in some countries
 
-Room Status Analysis: "SAME" bookings were less frequent but had a much higher cancellation rate.
+Room Status Analysis: "SAME" bookings were less frequent but had a much higher cancellation rate
 
-Possible reason: lack of flexibility—customers cannot change rooms easily, leading to higher cancellations.
+Possible reason: lack of flexibility—customers cannot change rooms easily, leading to higher cancellations
