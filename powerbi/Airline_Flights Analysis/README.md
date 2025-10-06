@@ -46,7 +46,7 @@ This project analyzes airline flight performance and delays. I built a clean and
 ---
 
 ## 🔗 Project Link
-[Airline Flights Analysis – Power BI Projects Folder](https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi)
+[Airline Flights Analysis – Power BI Projects Folder]([https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi](https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi/Airline_Flights%20Analysis))
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataModeling #DashboardDesign #AirlineAnalysis #DataVisualization
 
