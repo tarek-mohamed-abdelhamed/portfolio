@@ -1,50 +1,80 @@
-# ✈️ Airline Flights Analysis – Power BI Project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Airline Flights Analysis – Power BI Project</title>
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; color: #333; }
+  h1, h2, h3, h4 { color: #1a73e8; }
+  a { color: #1a73e8; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  ul { margin: 0; padding-left: 20px; }
+  section { background: #fff; padding: 15px 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+</style>
+</head>
+<body>
 
-Transforming raw flight data into an interactive Power BI dashboard using a Star Schema model (built in Power BI/Power Query).
+<h1>✈️ Airline Flights Analysis – Power BI Project</h1>
+<p>Transforming raw flight data into an interactive Power BI dashboard using a Star Schema model (built in Power BI/Power Query).</p>
 
----
+<section>
+  <h2>📁 Project Overview</h2>
+  <p>This project analyzes airline flight performance and delays. I built a clean and efficient <strong>Star Schema</strong> inside Power BI, created dimension tables, and developed an interactive dashboard with <strong>Drill-through</strong> for detailed insights.</p>
+</section>
 
-## 📁 Project Overview
-This project analyzes airline flight performance and delays. I built a clean and efficient **Star Schema** inside Power BI, created dimension tables, and developed an interactive dashboard with **Drill-through** for detailed insights.
+<section>
+  <h2>🧩 Data Modeling</h2>
+  <ul>
+    <li><strong>Fact Table:</strong> FactFlights – includes flight details, delays, cancellations, and diversions.</li>
+    <li><strong>Dimension Tables:</strong>
+      <ul>
+        <li>DimDate – date and time information.</li>
+        <li>DimCarriers – airline company details.</li>
+        <li>DimAirports – airport information and locations.</li>
+      </ul>
+    </li>
+    <li>Data preparation and merging done in Power BI/Power Query for consistency and analysis.</li>
+  </ul>
+</section>
 
----
+<section>
+  <h2>📈 Dashboard Highlights</h2>
+  <ul>
+    <li><strong>Main Page:</strong> Overview of total flights, on-time performance, cancellations, and diversions.</li>
+    <li><strong>Cancelled & Diverted Page:</strong> Detailed analysis of delayed, canceled, and diverted flights.</li>
+    <li><strong>Carriers Delay Page:</strong> Drill-through page showing average delays per airline and airport.</li>
+    <li><strong>Trends:</strong> Monthly peaks in March, June, and December.</li>
+  </ul>
+</section>
 
-## 🧩 Data Modeling
-- **Fact Table:** FactFlights – includes flight details, delays, cancellations, and diversions.
-- **Dimension Tables:**
-  1. **DimDate** – date and time information.
-  2. **DimCarriers** – airline company details.
-  3. **DimAirports** – airport information and locations.
-- Data preparation and merging done in Power BI/Power Query for consistency and analysis.
+<section>
+  <h2>💡 Key Insights</h2>
+  <ul>
+    <li>Out of 2M total flights, 215K were on time.</li>
+    <li>7,790 diverted flights and 635 canceled flights.</li>
+    <li>Southwest Airlines had the highest number of flights (~378K).</li>
+    <li>31.49% of flights had arrival delays, 31.93% had departure delays.</li>
+    <li>Most common delay causes: NAS (National Airspace System) and Late Aircraft.</li>
+    <li>Mesa Airlines had the highest average delay (~55 minutes).</li>
+  </ul>
+</section>
 
----
+<section>
+  <h2>🚀 Skills Gained</h2>
+  <ul>
+    <li>Star Schema design inside Power BI/Power Query</li>
+    <li>Dimension tables creation and data merging</li>
+    <li>Interactive dashboards with Drill-through</li>
+    <li>Insight extraction and visual storytelling</li>
+  </ul>
+</section>
 
-## 📈 Dashboard Highlights
-- **Main Page:** Overview of total flights, on-time performance, cancellations, and diversions.
-- **Cancelled & Diverted Page:** Detailed analysis of delayed, canceled, and diverted flights.
-- **Carriers Delay Page:** Drill-through page showing average delays per airline and airport.
-- **Trends:** Monthly peaks in March, June, and December.
+<section>
+  <h2>🔗 Project Link</h2>
+  <p>You can explore the project and download the Power BI file here:</p>
+  <p><a href="https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi/Airline_Flights%20Analysis" target="_blank">Airline Flights Analysis – Power BI</a></p>
+</section>
 
----
-
-## 💡 Key Insights
-- Out of 2M total flights, 215K were on time.
-- 7,790 diverted flights and 635 canceled flights.
-- Southwest Airlines had the highest number of flights (~378K).
-- 31.49% of flights had arrival delays, 31.93% had departure delays.
-- Most common delay causes: NAS (National Airspace System) and Late Aircraft.
-- Mesa Airlines had the highest average delay (~55 minutes).
-
----
-
-## 🚀 Skills Gained
-- Star Schema design inside Power BI/Power Query
-- Dimension tables creation and data merging
-- Interactive dashboards with Drill-through
-- Insight extraction and visual storytelling
-
----
-
-## 🔗 Project Link
-You can explore the project and download the Power BI file here:  
-[Airline Flights Analysis – Power BI](https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi/Airline_Flights%20Analysis)
+</body>
+</html>
