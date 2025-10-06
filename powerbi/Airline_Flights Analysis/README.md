@@ -46,4 +46,5 @@ This project analyzes airline flight performance and delays. I built a clean and
 ---
 
 ## 🔗 Project Link
+You can explore the project and download the Power BI file here:  
 [Airline Flights Analysis – Power BI](https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi/Airline_Flights%20Analysis)
