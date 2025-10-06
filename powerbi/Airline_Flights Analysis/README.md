@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Airline Flights Analysis – Power BI Project</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; color: #333; }
-  h1, h2, h3, h4 { color: #1a73e8; }
-  a { color: #1a73e8; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  ul { margin: 0; padding-left: 20px; }
-  section { background: #fff; padding: 15px 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-</style>
+  <meta charset="UTF-8">
+  <title>Airline Flights Analysis – Power BI Project</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; color: #333; }
+    h1, h2, h3, h4 { color: #1a73e8; }
+    a { color: #1a73e8; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { margin: 0; padding-left: 20px; }
+    section { background: #fff; padding: 15px 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+  </style>
 </head>
 <body>
 
@@ -28,11 +27,11 @@
   <ul>
     <li><strong>Fact Table:</strong> FactFlights – includes flight details, delays, cancellations, and diversions.</li>
     <li><strong>Dimension Tables:</strong>
-      <ul>
+      <ol>
         <li>DimDate – date and time information.</li>
         <li>DimCarriers – airline company details.</li>
         <li>DimAirports – airport information and locations.</li>
-      </ul>
+      </ol>
     </li>
     <li>Data preparation and merging done in Power BI/Power Query for consistency and analysis.</li>
   </ul>
@@ -73,8 +72,9 @@
 <section>
   <h2>🔗 Project Link</h2>
   <p>You can explore the project and download the Power BI file here:</p>
-  <p><a href="https://github.com/tarek-mohamed-abdelhamed/portfolio/tree/main/powerbi/Airline_Flights%20Analysis" target="_blank">Airline Flights Analysis – Power BI</a></p>
+  <p><a href="https://drive.google.com/file/d/1ebZzsWIzIteenH37k0AAI6eHkccX9KKo/view?usp=drive_link" target="_blank">Airline Flights Analysis – Power BI (Google Drive)</a></p>
 </section>
 
 </body>
 </html>
+
