@@ -41,7 +41,7 @@
 
 <section>
   <h2>📁 Project Overview</h2>
-  <p>This project analyzes airline flight performance and delays. I built a clean and efficient <strong>Star Schema</strong> inside Power BI, created dimension tables, and developed an interactive dashboard with <strong>Drill-through</strong> for detailed insights.</p>
+  <p>This project analyzes airline flight performance and delays. I built a clean and efficient Star Schema inside Power BI, created dimension tables, and developed an interactive dashboard with Drill-through for detailed insights.</p>
 </section>
 
 <section>
@@ -62,10 +62,10 @@
 <section>
   <h2>📈 Dashboard Highlights</h2>
   <ul>
-    <li><strong>Main Page:</strong> Overview of total flights, on-time performance, cancellations, and diversions.</li>
-    <li><strong>Cancelled & Diverted Page:</strong> Detailed analysis of delayed, canceled, and diverted flights.</li>
-    <li><strong>Carriers Delay Page:</strong> Drill-through page showing average delays per airline and airport.</li>
-    <li><strong>Trends:</strong> Monthly peaks in March, June, and December.</li>
+    <li>Main Page: Overview of total flights, on-time performance, cancellations, and diversions.</li>
+    <li>Cancelled & Diverted Page: Detailed analysis of delayed, canceled, and diverted flights.</li>
+    <li>Carriers Delay Page: Drill-through page showing average delays per airline and airport.</li>
+    <li>Trends: Monthly peaks in March, June, and December.</li>
   </ul>
 </section>
 
