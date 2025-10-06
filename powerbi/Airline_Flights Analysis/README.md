@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Airline Flights Analysis – Power BI Project</title>
- 
 </head>
 <body>
 
