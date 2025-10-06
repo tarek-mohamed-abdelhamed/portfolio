@@ -3,36 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Airline Flights Analysis – Power BI Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3, h4 {
-      color: #1a73e8;
-    }
-    a {
-      color: #1a73e8;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin: 0;
-      padding-left: 20px;
-    }
-    section {
-      background: #fff;
-      padding: 15px 20px;
-      margin-bottom: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-  </style>
+ 
 </head>
 <body>
 
