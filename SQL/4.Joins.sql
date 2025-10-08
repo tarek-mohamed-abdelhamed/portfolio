@@ -81,7 +81,7 @@ from Employee e left join Dependent d
 insert into Employee
 values ( 'Kholod', 'Sadek', 102672, '2004-03-11', '1st cairo', 'F', 3000, 112233, 30)
 
--- 14. Insert another employee with personal data your friend as new employee in department number 30, SSN = 102660, but don’t enter any value for salary or supervisor number to him.
+-- 14. Insert another employee with personal data your friend as new employee in department number 30, SSN = 102660, but donâ€™t enter any value for salary or supervisor number to him.
 insert into Employee (Fname, Lname, SSN, Bdate, Address, Sex, Dno)
 values ( 'ahmed' , 'ali' , 101110 , '2000-11-11' , '2st alex' , 'F' , 30 )
 
