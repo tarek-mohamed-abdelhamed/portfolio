@@ -1,4 +1,4 @@
-<h2>📊 Power BI Project – Sales Analysis 2022</h2>
+<h2>📊 Power BI Project – Sales Analysis </h2>
 <p>Transforming raw SQL Server data into a clean, analytical Power BI dashboard using a <strong>Star Schema</strong> model.</p>
 
 <hr>
