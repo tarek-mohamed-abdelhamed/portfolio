@@ -42,4 +42,4 @@ Created visual insights using **Matplotlib** and **Seaborn**:
 ---
 
 ## 🔗 Project Link  
-[Credit Card Customers Analysis – Jupyter Notebook](add_your_GitHub_or_GoogleDrive_link_here)
+[Credit Card Customers Analysis – Jupyter Notebook]([add_your_GitHub_or_GoogleDrive_link_here](https://github.com/tarek-mohamed-abdelhamed/portfolio/blob/main/Python/Credit%20Card%20Customers/Credit_Card_Customers.ipynb))
